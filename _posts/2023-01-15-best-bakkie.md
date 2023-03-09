@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Best bakkie"
+title:  "The public's chosen bakkies"
 date:   2023-01-15
 featured_image: best_bakkie_header.png
 tags: [Bakkies]
