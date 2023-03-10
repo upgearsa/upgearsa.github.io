@@ -8,7 +8,7 @@ tags: [Bakkies]
 
 ## What bakkie is the best according to the public
 
-It is difficult to determine the "best" bakkie (pickup truck) as it ultimately depends on individual preferences and needs. However, here are some popular bakkies according to consumer reviews and sales:
+It is difficult to determine the "best" bakkie as it ultimately depends on individual preferences and needs. However, here are some popular bakkies according to consumer reviews and sales:
 highly rated bakkies in the South African market based on historical data and expert reviews.
 
 <!--more-->
